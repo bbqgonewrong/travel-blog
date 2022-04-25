@@ -13,7 +13,6 @@ export default {
                 {title: 'H3',value:'h3'},
                 {title: 'H4',value:'h4'},
                 {title: 'Quote',value:'blockquote'},
-                {title: 'H1',value:'h1'},
             ],
             lists : [
                 {title: 'Bullet',value:'bullet'}],
